@@ -3,3 +3,7 @@ Machine Learning is the field of study that gives computers the capability to le
 
   ![images](https://user-images.githubusercontent.com/46878145/70702716-9091f700-1c83-11ea-9bb9-dbb84434b288.png)
 
+# Types of Machine Learning
+
+
+![1-FUZS9K4JPqzfXDcC83BQTw](https://user-images.githubusercontent.com/46878145/70703665-67726600-1c85-11ea-8d8e-35bbd782c031.png)
